@@ -20,7 +20,7 @@ public class Math {
 		return a * b;
 	}
 	
-	//user1 打了一个补丁
+	//user1 打了一个补丁, 又打了一个补丁
 	
 	
 }
